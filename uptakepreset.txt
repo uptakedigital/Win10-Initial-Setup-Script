@@ -37,7 +37,7 @@ DisableAdvertisingID            # EnableAdvertisingID
 
 
 ### Security Tweaks ###
-DisableScriptHost               # EnableScriptHost
+# DisableScriptHost               # EnableScriptHost
 
 # SetUACLow                     # SetUACHigh
 # EnableSharingMappedDrives     # DisableSharingMappedDrives
@@ -115,7 +115,7 @@ DisableHibernation
 DisableAccessibilityKeys        # EnableAccessibilityKeys
 HideTaskbarSearch              
 ShowTaskbarSearchIcon
-SetTaskbarCombineAlways
+
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 DisableF1HelpKey                # EnableF1HelpKey
